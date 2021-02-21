@@ -4,7 +4,7 @@ windows笔记本电脑自动切换强信号wifi用
 
 有几种使用方法
 代码+服务使用方法：
-1.配置好python3环境，安装pywifi,subprocess两个第三方库
+1.配置好python3环境，安装comtypes,pywifi,subprocess两个第三方库
 2.nssm中添加服务时输入python路径，参数填代码路径
 
 打包exe+服务使用方法：
