@@ -77,7 +77,7 @@ def change_wifi(ssid):
         pass
 
 
-path = "T:\\pyprojects\\wifi\\"
+path = "" # 改成运行目录
 f = open(path + "options.ini", "r")
 opt = load(f)
 f.close()
